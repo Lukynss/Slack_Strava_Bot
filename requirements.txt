@@ -1,0 +1,4 @@
+slack_bolt
+requests
+python-dotenv
+strava-cz
